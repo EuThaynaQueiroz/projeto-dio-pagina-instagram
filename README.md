@@ -1,2 +1,2 @@
 # projeto-dio-pagina-instagram
-Projeto da DIO para recriar uma página inicial do instagram e colocar em prática conceitos sobre CSS e Flexbox.
+Projeto da DIO para recriar a página inicial do instagram e colocar em prática conceitos aprendidos sobre CSS e Flexbox.
